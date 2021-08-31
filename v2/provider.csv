@@ -1,0 +1,7 @@
+providerId,type,name,phone,address,latitude,longitude,password
+walgreen1,pharmacy,"Walgreens Pharmacy",7184039112,"379 Myrtle Ave, Brooklyn, NY 11205",40.69326,-73.971016,123456
+nycwoodhull,hospital,"NYC Health + Hospitals/Woodhull",7189638000,"760 Broadway, Brooklyn, NY 11206",40.699479,-73.942639,password
+walgreen2,pharmacy,"Walgreens Pharmacy",7183982074,"1281 Fulton St, Brooklyn, NY 11216",40.680551,-73.950216,wgr222
+cvs1,pharmacy,"CVS Pharmacy",2129825193,"300 Park Ave S, New York, NY 10010",40.739792,-73.986874,cvspharmacy
+nycmetropolitan,hospital,"NYC Health + Hospitals/Metropolitan",2124236262,"1901 1st Avenue, New York, NY 10029",40.785103,-73.945059,metro123
+flushinghospital,hospital,"Flushing Hospital Medical Center",7186705000,"4500 Parsons Blvd, Flushing, NY",40.755536,-73.816631,flushing66

@@ -1,0 +1,9 @@
+patientId,name,SSN,birthday,address,latitude,longitude,phone,email,prionum,password
+jones90,Jones,829380921,1990-09-02,"343 Gold Street, Brooklyn, NY",40.693691,-73.982889,2398928398,huanyao0718@gmail.com,1,password
+michael6,Michael,820471928,1950-12-11,"138-18 Northern Blvd, Flushing, NY",40.710668,-74.011029,2890928392,huanyao0718@gmail.com,2,test123
+jj999,Jack,628374018,1969-10-09,"105 E 22nd St,New York, NY",40.739437,-73.986399,8207468290,huanyao0718@gmail.com,4,jjjj9999
+rose1999,Rose,820174927,1999-03-02,"1035 Washington Ave, Brooklyn, NY",40.664608,-73.960438,8019309210,huanyao0718@gmail.com,4,rose19990302
+mary2021,Mary,108374928,2021-02-03,"22 E 119th St, New York, NY",40.802136,-73.944239,2019284038,huanyao0718@gmail.com,3,password
+bob0823,Bob,293019374,1983-08-23,"824 Park Ave, Brooklyn, NY",40.698148,-73.942402,4982909274,huanyao0718@gmail.com,1,123123123
+gabriel1105,Gabriel,629204862,1970-11-05,"390 Gates Ave, Brooklyn",40.686064,-73.950914,5829902749,huanyao0718@gmail.com,4,19701105
+ronron0607,Ron,402948465,1959-06-07,"163 Eastern Pkwy, Brooklyn, NY",40.672257,-73.963620,3294890289,huanyao0718@gmail.com,2,ron1959
